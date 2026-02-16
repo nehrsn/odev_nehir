@@ -18,7 +18,7 @@ MonoBehaviour:
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1771254751
+  checkedLastUpdateTimestamp: 1771275895
   lastQOTDResponse:
     questionId: 272
     questionText: Which namespace do we need to use File.WriteAllText()?
@@ -27,26 +27,26 @@ MonoBehaviour:
     answerC: using System.IO;
     answerD: using UnityEngine.UI;
     answerE: 
-  lastQotdTimestamp: 1771254751
+  lastQotdTimestamp: 1771275895
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
     topText: Stay up to date with the latest in Game Dev straight to your inbox!
     topLink: gamedevreport
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1771254751
+  lastDynamicHeaderTimestamp: 1771275895
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1771254751
+  websiteLatestMessageTimestamp: 1771275895
   websiteLatestVideos:
     videos:
+    - youTubeId: cYM059zGSrs
+      title: 100 Steam Game Marketing Questions Answered to help you find SUCCESS!
     - youTubeId: PBDBKTwZI8Y
       title: TOP 10 FREE NEW Assets FEBRUARY 2026!
     - youTubeId: Vb5BZu7TOIk
       title: 8 QUICK Game Dev Tips for SUCCESS!
     - youTubeId: 4cG_gdjQ4no
       title: TOP 10 NEW Games, Made with Unity! (JANUARY 2026)
-    - youTubeId: Vc_38R17zNs
-      title: 'Productivity Tip: DON''T Finish Your Tasks!'
-  websiteLatestVideosTimestamp: 1771254751
+  websiteLatestVideosTimestamp: 1771275895
